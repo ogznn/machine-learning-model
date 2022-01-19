@@ -1,4 +1,2 @@
 Yapay Zeka Final Ödevi
-
-Ödevde E2021new verilerindeki makine öğrenmesini gerçekleştirdikten sonra HomeCorner alanıyla ilgili tahmin etme işlemini gerçekleştiren bir konsol uygulaması hazırladık. Makine, ilgili alanlara veri girişi yapıtğınızda HomeCorner alanını tahmin etmeye çalışıyor. Uygulamayı sürekli tekrar edecek şekilde ayarladık. Eğer kullanıcı çıkmak isterse işlemin sonunda "cikis" yazmasi ile program sonlanıyor. Dinamik bir veri girişi sağladık yani string alanlara boş değer, sayı girilmesi gereken alanlara negatif değer girilemiyor.
-
+Euro2021 karşılaşmalarına ait, ev sahibi takımın ve rakip takımın golleri, korner sayıları, penaltı atışları gibi birbirinden farklı veriler bulunmaktadır. Veri girişlerinde biraz daha filtreleme ekleyerek kullanıcının tablodaki veriler dışında verilerin girmesi halinde onu uyarıyor ve tekrar girişi sağlıyoruz. Ek olarak program sürekli çalıştığı ve programdan çıkış yapması için "cikis" yazması yeterli olacaktır.
